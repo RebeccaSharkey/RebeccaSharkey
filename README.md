@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Current Project: Procedurally Generated Terrain
+* Dissertation project looking at creating a large procedurally generated world, focussing on building seeded realistic playable terrain with multiple biomes.
+* Project is created in unity using C#
