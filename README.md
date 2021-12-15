@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My Name is Rebecca Sharkey and I am an undergraduate games programmer. 
 
-#### Currently I am in my third year at University of Chester studying Games Development and am due to finish mid 2022.
+#### Currently I am in my third year at The University of Chester studying Games Development and am due to finish mid 2022.
 #### My passion is in game mechanics programming, however my course has allowed me to learn about all aspects of games development from programming to 3D modelling and texturing to UX and crucially working in a team environment using various version control softwares.
 #### Please explore my GitHub site and pinned repositories to see some of my work so far and get to know more about me.
 #### Thank you for your time!
