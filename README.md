@@ -1,4 +1,4 @@
-## Hello, World!
+# Hello, World!
 
 <!--
 **RebeccaSharkey/RebeccaSharkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Current Project: Procedurally Generated Terrain
-#### Dissertation project looking at creating a large procedurally generated world, focussing on building seeded realistic playable terrain with multiple biomes.
-Features:
-* Project is created in Unity,
-* Uses C#,
-* Supporting written dissertation document that includes a literature review, design overview, implementation and testing phases is include.
+## My Name is Rebecca Sharkey and I am an undergraduate games programmer. 
 
+#### Currently I am in my third year at University of Chester studying Games Development and am due to finish mid 2022.
+#### My passion is in game mechanics programming, however my course has allowed me to learn about all aspects of games development from programming to 3D modelling and texturing to UX and crucially working in a team environment using various version control softwares.
+#### Please explore my GitHub site and pinned repositories to see some of my work so far and get to know more about me.
+#### Thank you for your time!
 
-### Solo Project: Lockdown Living
-#### This game is a local multiplayer game that supports up to 4 players at any given time, to be played on PC with keyboard and mouse and/or controllers.
-Features:
-* Project is created in Unity,
-* Uses C#,
-* Supporting written documents include:
-  * Design Document
-  * Testing Document
-  * Code in PDF format
-
+### Contact me
+Email:\
+Mobile:\
+My Portfolio:\
+LinkedIn:
