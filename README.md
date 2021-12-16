@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### Thank you for your time!
 
 ### Contact me
-Email:\
-Mobile:\
+Email: RebeccaJayneSharkey@gmail.com\
+Mobile: 07932 758414\
 My Portfolio:\
 LinkedIn:
