@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### My passion is in game mechanics programming, however my university course has allowed me to learn about all aspects of games development from programming to 3D modelling and texturing to UX and crucially working in a team environment using various version control softwares.
 
-#### I also rreally enjoy programming for animation, being well aware of ABPs, Control Rigs and the ability to set up intricate IK, and UI programming to create user friendly and readable experiences. My most worked on areas however are advanced locomotion systems within Unreal including everything from networked vertical and horizontal wall running to spider man swings in both first and thrid person.
+#### I also really enjoy programming for animation, being well aware of ABPs, Control Rigs and the ability to set up intricate IK, and UI programming to create user friendly and readable experiences. My most worked on areas however are advanced locomotion systems within Unreal including everything from networked vertical and horizontal wall running to spider man swings in both first and thrid person.
 
 #### Please explore my GitHub site and pinned repositories to see some of my work so far and get to know more about me.
 
