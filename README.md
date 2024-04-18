@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Name is Rebecca Sharkey and I am an Games Programmer. 
+## My Name is Rebecca Sharkey and I am a Games Programmer. 
 
 #### I am currently a full time employed Games Programmer however I am continously learning and my GitHub is full of personal projects new and old, as well as some private that I am using to better my knowledge of unreal engine.
 
