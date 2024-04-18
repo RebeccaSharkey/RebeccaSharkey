@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Name is Rebecca Sharkey and I am an undergraduate games programmer. 
+## My Name is Rebecca Sharkey and I am an Games Programmer. 
 
-#### I am currently finishing my Games Development BSC (Hons) dissertation part-time (On weekends) with The University of Chester aiming to get my full degree by mid 2023, however as all other modules have now been completed I feel as if I have enough knowledge and time to take look for work in this area.
-#### My passion is in game mechanics programming, however my course has allowed me to learn about all aspects of games development from programming to 3D modelling and texturing to UX and crucially working in a team environment using various version control softwares.
+#### I am currently a full time employed Games Programmer however I am continously learning and my GitHub is full of personal projects new and old, as well as some private that I am using to better my knowledge of unreal engine.
+
+#### My passion is in game mechanics programming, however my university course has allowed me to learn about all aspects of games development from programming to 3D modelling and texturing to UX and crucially working in a team environment using various version control softwares.
+
+#### I also rreally enjoy programming for animation, being well aware of ABPs, Control Rigs and the ability to set up intricate IK, and UI programming to create user friendly and readable experiences. My most worked on areas however are advanced locomotion systems within Unreal including everything from networked vertical and horizontal wall running to spider man swings in both first and thrid person.
+
 #### Please explore my GitHub site and pinned repositories to see some of my work so far and get to know more about me.
+
 #### Thank you for your time!
 
 ### Contact me
