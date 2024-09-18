@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ### Contact me
 Email: RebeccaJayneSharkey@gmail.com\
 Mobile: 07932 758414\
-My Portfolio: https://rebeccajsharkey.wixsite.com/my-portfolio\
+My Portfolio: https://rebeccajsharkey.wixsite.com/my-portfolio \
 LinkedIn: https://www.linkedin.com/in/rebecca-sharkey-47882b248/
